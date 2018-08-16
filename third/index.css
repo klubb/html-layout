@@ -1,0 +1,49 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+header {
+    background-color: lightgrey;
+    height: 100px;
+    padding: 10px;
+}
+
+.blue {
+    background-color: lightskyblue;
+    width: 50px;
+    height: 50px;
+    
+}
+
+.whitetxt {
+    background-color: white;
+   
+    height: 220px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 180px;
+}
+
+.first {
+    background-color: blue;
+    height: 100px;
+}
+
+.second {
+    background-color: lightskyblue;
+    height: 100px;
+}
+
+.third {
+    background-color: green;
+    height: 100px;
+}
+
+.fourth{
+    background-color: yellow;
+    height: 100px;
+}

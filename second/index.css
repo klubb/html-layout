@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 25px;
+  }
+.top {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box ;
+    
+}
+
+.middle {
+    border: dotted 4px black;
+    height: 30vh;
+    margin: 30px;
+}
+
+
+.bottom {
+    border: 1px solid black;
+    height: 30vh;
+    margin: 0px 400px 0px 400px;
+    text-align: center;
+    padding-top: 150px;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.shape1 {
+    background-color: purple;
+    width: 50px;
+    height: 130px;
+    margin: 100px 0px 0px 10px;
+    display: inline-block;
+    
+    
+}
+
+.shape2 {
+    height: 200px;
+  width: 400px;
+  display: inline-block;
+  background-color: forestgreen;
+  margin: 0 50px;
+}
+
+.shape3 {
+    display: inline-block;
+    background-color: blue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.rectangle {
+    background-color: lemonchiffon;
+    height: 120px;
+    width: 1200px;
+    margin: 50px;
+    box-shadow: 10px 10px 5px grey;
+}
